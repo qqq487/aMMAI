@@ -6,8 +6,6 @@ Shorten, C., Khoshgoftaar, T.M.
 To avoid or reduce overfitting due to limited data.
 
 ## Contribution
-
-1. Contribution
     List a lot of common data augmentation techniques with pros and cons.
 ## Method
 
