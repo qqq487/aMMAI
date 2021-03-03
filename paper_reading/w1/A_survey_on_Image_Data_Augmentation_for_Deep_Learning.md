@@ -62,7 +62,6 @@ To avoid or reduce overfitting due to limited data.
 
 
 ### Data Augmentations based on Deep Learning
-@@@@@@@@@@@@@@@@@@@@@@@@@@@
 * Feature space augmentation:
     * synthetic minority over-sampling technique (SMOTE)
     * data-space augmentations usually better than feature-space augmentations
