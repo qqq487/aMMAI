@@ -6,7 +6,7 @@ Shorten, C., Khoshgoftaar, T.M.
 To avoid or reduce overfitting due to limited data.
 
 ## Contribution
-    List a lot of common data augmentation techniques with pros and cons.
+List a lot of common data augmentation techniques with pros and cons.
 ## Method
 
 ### Data Augmentations based on basic image manipulations
