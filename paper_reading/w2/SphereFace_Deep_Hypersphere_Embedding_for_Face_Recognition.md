@@ -40,13 +40,13 @@ This paper propose the angular softmax loss that enables CNN to learn angularly 
 
 
 2. Introducing Angular Margin to Softmax Loss
-    ![](https://i.imgur.com/o8TBx8u.png)
-    ![](https://i.imgur.com/PwyjrQX.png)
+    * ![](https://i.imgur.com/o8TBx8u.png)
+    * ![](https://i.imgur.com/PwyjrQX.png)
     * add angle metric into softmax loss, then train the model to generate decision boundaries based on the angle in the feature space.
     
 
 3. Hypersphere Interpretation of A-Softmax Loss
-   ![](https://i.imgur.com/PnaPHyA.png)
+    * ![](https://i.imgur.com/PnaPHyA.png)
 
    * A-Softmax loss is equivalent to learning features that are discriminative on a hypersphere manifold, while Euclidean margin losses learn features in Euclidean space.
    * analysis shows that optimizing angles with A-Softmax loss essentially makes the learned features more discriminative on a hypersphere.
