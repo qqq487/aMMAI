@@ -27,7 +27,7 @@ This paper propose the angular softmax loss that enables CNN to learn angularly 
 * Closed-set: 
     * the identities have overlap in the training and testing set.
     * classification
-![](https://i.imgur.com/uluxGKU.png)
+    * ![](https://i.imgur.com/uluxGKU.png)
 
 
 ## Method
