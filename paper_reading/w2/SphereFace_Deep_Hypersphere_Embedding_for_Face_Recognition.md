@@ -36,7 +36,7 @@ This paper propose the angular softmax loss that enables CNN to learn angularly 
 1. Revisiting the Softmax Loss
     * ![](https://i.imgur.com/TIXAKDk.png)
 
-    * f<sub>j</sub> denotes the *j*-th element, *j* $\in$ [1,*K*], *K* is the class  number of the class score vector ***f***, and *N* is the number of training samples. 
+    * f<sub>j</sub> denotes the *j*-th element, *j* in [1,*K*], *K* is the class  number of the class score vector ***f***, and *N* is the number of training samples. 
 
 
 2. Introducing Angular Margin to Softmax Loss
@@ -54,4 +54,4 @@ This paper propose the angular softmax loss that enables CNN to learn angularly 
 4. Properties of A-Softmax Loss
    1. With larger m,the angular margin becomes larger, the constrained regionon the manifold becomes smaller, and the corresponding learning task also becomes more difficult.
    2. (lower bound of *m*<sub>min</sub> in binary-class case).In binary-class case, we have *m*<sub>min</sub> ≥ 2+√3.
-   3. (lower bound of *m*<sub>min</sub> in multi-class case).Under the assumption that *W*$_i$, ∀$_i$ are uniformly spaced in the Euclidean space, we have *m*<sub>min</sub> ≥ 3.
+   3. (lower bound of *m*<sub>min</sub> in multi-class case).Under the assumption that *W*<sub>i</sub>, ∀<sub>i</sub> are uniformly spaced in the Euclidean space, we have *m*<sub>min</sub> ≥ 3.
