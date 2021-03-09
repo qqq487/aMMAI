@@ -36,7 +36,7 @@ This paper propose the angular softmax loss that enables CNN to learn angularly 
 1. Revisiting the Softmax Loss
    ![](https://i.imgur.com/TIXAKDk.png)
 
-    * $f_j$ denotes the *j*-th element, *j* $\in$ [1,*K*], *K* is the class  number of the class score vector ***f***, and *N* is the number of training samples. 
+    * $f<sub>j</sub>$ denotes the *j*-th element, *j* $\in$ [1,*K*], *K* is the class  number of the class score vector ***f***, and *N* is the number of training samples. 
 
 
 2. Introducing Angular Margin to Softmax Loss
