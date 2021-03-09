@@ -57,4 +57,4 @@ Three parts:
         1. face verification 
         2. face identification.
 * Training data sets for face recognition
-![](https://i.imgur.com/95TWZRU.png)
+* ![](https://i.imgur.com/95TWZRU.png)
